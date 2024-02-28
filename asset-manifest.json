@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Restaurant-page/static/css/main.3d557043.css",
-    "main.js": "/Restaurant-page/static/js/main.03e338db.js",
+    "main.js": "/Restaurant-page/static/js/main.1aaffc86.js",
     "static/js/453.71fc5bb9.chunk.js": "/Restaurant-page/static/js/453.71fc5bb9.chunk.js",
     "static/media/banner.jpg": "/Restaurant-page/static/media/banner.1e3404f99317eaf9a027.jpg",
     "static/media/masala.jpeg": "/Restaurant-page/static/media/masala.e837385535c7a5902602.jpeg",
     "index.html": "/Restaurant-page/index.html",
     "main.3d557043.css.map": "/Restaurant-page/static/css/main.3d557043.css.map",
-    "main.03e338db.js.map": "/Restaurant-page/static/js/main.03e338db.js.map",
+    "main.1aaffc86.js.map": "/Restaurant-page/static/js/main.1aaffc86.js.map",
     "453.71fc5bb9.chunk.js.map": "/Restaurant-page/static/js/453.71fc5bb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d557043.css",
-    "static/js/main.03e338db.js"
+    "static/js/main.1aaffc86.js"
   ]
 }
