@@ -7,9 +7,9 @@ import Pagenotfound from "./pages/Pagenotfound";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter >
         <Routes>
-          <Route path="/" element={<Home/>} />
+          <Route exact path="/Restaurant-page" element={<Home/>} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/menu" element={<Menu />} />
